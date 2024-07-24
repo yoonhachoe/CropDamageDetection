@@ -52,3 +52,4 @@ To visualize the learned feature map of damage regression model:
 ```shell
 python featurevisualizer.py
 ```
+<p align="center"><img src="docs/image1.jpg" width="100%"/></p>
