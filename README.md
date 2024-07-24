@@ -1,6 +1,6 @@
 # Sugar Beet Leaf Damage Regression Model for Smart Plant Monitoring
 
-<p align="center"><img src="docs/image.jpg" width="100%"/></p>
+<p align="center"><img src="docs/image0.jpg" width="100%"/></p>
 
 ## Introduction
 We propose a computer vision and deep learning-based method of detecting sugar beet 
